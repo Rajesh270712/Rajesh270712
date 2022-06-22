@@ -51,16 +51,16 @@
 
  
  ## 📊 My GitHub Data:
-<p align=center>
+
   <div align=center>
-<!--     <a> -->
-      <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=Rajesh270712&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="zumrudu-anka" />
-<!--     </a> -->
-<!--     <a> -->
-      <img align="right" width=355 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh270712&layout=compact&theme=nightowl&text_color=ffffff" />
-<!--     </a> -->
+    <a>
+      <img align="left" height=600 width=500 src="https://github-readme-stats.vercel.app/api?username=Rajesh270712&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="zumrudu-anka" />
+    </a>
+    <a>
+      <img align="right" height=600 width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh270712&layout=compact&theme=nightowl&text_color=ffffff" />
+    </a>
   </div>
-</p>
+
 <br>
 <br>
 <br>
