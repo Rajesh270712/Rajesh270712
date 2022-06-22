@@ -51,27 +51,16 @@
 
  
  ## 📊 My GitHub Data:
-
+<p align=center >
   <div align=center>
     <a>
-      <img align="left" height=600 width=500 src="https://github-readme-stats.vercel.app/api?username=Rajesh270712&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="zumrudu-anka" />
+      <img align="left" height=600 width=450 src="https://github-readme-stats.vercel.app/api?username=Rajesh270712&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="zumrudu-anka" />
     </a>
     <a>
-      <img align="right" height=600 width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh270712&layout=compact&theme=nightowl&text_color=ffffff" />
+      <img align="right" height=600 width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh270712&layout=compact&theme=nightowl&text_color=ffffff" />
     </a>
   </div>
-
-<br>
-<br>
-<br>
-## ❤️ Let's get connected:
-
-<div align="center" >
-<a href="https://www.linkedin.com/in/rajesh-bagul/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
-
-<a href="mailto:gmail.com/rajeshbagul2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
-
-</div>
+</p>
 
 
 
