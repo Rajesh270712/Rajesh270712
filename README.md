@@ -50,7 +50,7 @@
 
  
  ## 📊 My GitHub Data:
-[![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajesh270712)](https://github.com/Rajesh270712/github-readme-stats)
+[![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajesh270712)](https://github.com/Rajesh270712/github-readme-stats)
 
 ## ❤️ Let's get connected:
 
