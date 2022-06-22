@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" /> I'm Rajesh Digambar Bagul</h1>
+<h1 align="center">Hello<img src="https://media1.giphy.com/media/BofAup3ACpCE98zicU/giphy.gif?cid=790b7611e65f43f0283fb8552821985e717b0c5800800427&rid=giphy.gif&ct=g" /> I'm Rajesh Digambar Bagul</h1>
 
 <div align="center">
   <img src ="https://www.crio.do/blog/content/images/size/w1000/2021/04/Full-stack-web-developer.png" width="1200px" height="400px"/>
