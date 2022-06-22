@@ -19,8 +19,6 @@
 
 - 👯 I’m looking to collaborate for `Projects`
 
-- 🤔 I’m looking for help with `Competitive Programming`
-
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 
