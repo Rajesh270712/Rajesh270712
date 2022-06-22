@@ -51,8 +51,19 @@
 
  
  ## 📊 My GitHub Data:
-[![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajesh270712)](https://github.com/Rajesh270712/github-readme-stats)
-
+<p align=center>
+  <div align=center>
+<!--     <a> -->
+      <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=Rajesh270712&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="zumrudu-anka" />
+<!--     </a> -->
+<!--     <a> -->
+      <img align="right" width=355 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh270712&layout=compact&theme=nightowl&text_color=ffffff" />
+<!--     </a> -->
+  </div>
+</p>
+<br>
+<br>
+<br>
 ## ❤️ Let's get connected:
 
 <div align="center" >
