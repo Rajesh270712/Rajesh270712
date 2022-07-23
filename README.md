@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="290px" align="right" />
+<img  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="290px" width="40%" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://rajesh-bagul.netlify.app/)**
 
